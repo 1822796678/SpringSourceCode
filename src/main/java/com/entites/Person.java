@@ -5,6 +5,7 @@ public class Person {
     private Integer age ;
 
     public String getName() {
+        name = "myname";
         return name;
     }
 
